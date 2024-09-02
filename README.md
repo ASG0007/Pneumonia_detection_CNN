@@ -55,16 +55,16 @@ Recall (Pneumonia)      : 95.48% (For positive class)
 
 ##### Sample Output: 
 <kbd>
-<img src=>
+<img src=https://github.com/ASG0007/Pneumonia_detection_CNN/blob/main/sample.png>
 </kbd>
 
 <kbd>
-<a href=>See More Images</a>
+<a href=https://github.com/ASG0007/Pneumonia_detection_CNN/blob/main/result.png>See More Images</a>
 </kbd>
 
 ##### Confusion Matrix: 
 <kbd>
-<img src= alt="Confusion Matrix" width=800px height=600px>
+<img src=https://github.com/ASG0007/Pneumonia_detection_CNN/blob/main/CM.png alt="Confusion Matrix" width=800px height=600px>
 </kbd>
 
 #### Tools / Libraries
